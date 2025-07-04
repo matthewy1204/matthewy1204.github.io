@@ -1,9 +1,9 @@
 ---
-Matthew Yun's Projects
+layout: default
 ---
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-Link to my [LinkedIn](https://www.linkedin.com/in/matthew-yun/).
+[LinkedIn](https://www.linkedin.com/in/matthew-yun/).
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
