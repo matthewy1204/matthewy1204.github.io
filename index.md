@@ -1,5 +1,5 @@
 ---
-title: Matthew Yun's Projects
+layout: Matthew Yun's Projects
 ---
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
