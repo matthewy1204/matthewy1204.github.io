@@ -1,5 +1,5 @@
 ---
-layout: Matthew Yun's Projects
+layout: Default
 title: MJY Protfolio
 ---
 Text can be **bold**, _italic_, or ~~strikethrough~~.
