@@ -1,9 +1,10 @@
 ---
 layout: default
+Matthew Yun's Projects
 ---
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-Socials: [LinkedIn](https://www.linkedin.com/in/matthew-yun/). , [Email](myun1245@outlook.com) , [Phone](3128871422)
+My [LinkedIn](https://www.linkedin.com/in/matthew-yun/)
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
