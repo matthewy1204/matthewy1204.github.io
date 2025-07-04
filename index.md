@@ -1,5 +1,6 @@
 ---
 layout: Matthew Yun's Projects
+title: MJY Protfolio
 ---
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
