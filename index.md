@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default.html
 title: Matthew Yun's CS Projects
 ---
 Text can be **bold**, _italic_, or ~~strikethrough~~.
