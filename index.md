@@ -1,10 +1,9 @@
 ---
-layout: default
+#Matthew Yun's Porjects
 ---
-
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+[Link to my LinkedIn](https://www.linkedin.com/in/matthew-yun/).
 
 There should be whitespace between paragraphs.
 
