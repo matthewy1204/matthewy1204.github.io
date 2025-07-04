@@ -3,7 +3,7 @@ layout: default
 ---
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[LinkedIn](https://www.linkedin.com/in/matthew-yun/).
+Socials: [LinkedIn](https://www.linkedin.com/in/matthew-yun/). , [Email](myun1245@outlook.com) , [Phone](3128871422)
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
